@@ -1,0 +1,6 @@
+{
+  "name": "Aarogya Clinic & Diagnostics",
+  "description": "Centre for Advanced Internal Medicine & Family Health in Indiranagar, Bengaluru. Led by Dr. Arvind Sharma with unhurried care and precision diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
